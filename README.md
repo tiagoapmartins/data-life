@@ -1,4 +1,5 @@
 From article: [https://www.abc.net.au/news/2018-10-25/my-phone-is-spying-on-me-so-i-decided-to-spy-on-my-phone/10306586](https://www.abc.net.au/news/2018-10-25/my-phone-is-spying-on-me-so-i-decided-to-spy-on-my-phone/10306586)
+Possibly use IP lists from following project: [berthubert/googerteller](https://github.com/berthubert/googerteller)
 
 # Data Life
 
