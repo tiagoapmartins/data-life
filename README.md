@@ -2,6 +2,8 @@ From article: [https://www.abc.net.au/news/2018-10-25/my-phone-is-spying-on-me-s
 
 Possibly use IP lists from following project: [berthubert/googerteller](https://github.com/berthubert/googerteller)
 
+Test Phone before and after: [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
+
 # Data Life
 
 Here I am man-in-the-middling myself and analysing the results.
